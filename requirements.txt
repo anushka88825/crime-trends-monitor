@@ -1,0 +1,6 @@
+pandas
+sodapy
+prefect
+python-dotenv
+sqlalchemy
+psycopg2-binary
